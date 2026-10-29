@@ -1,0 +1,22 @@
+# AI-Driven NLP Project: Requirements
+# Tested on Python 3.12 (Windows 11 / Linux / macOS)
+# To install CPU PyTorch on Windows:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+#   pip install -r requirements.txt
+
+torch>=2.2.0
+transformers>=4.40.0
+datasets>=2.18.0
+scikit-learn>=1.4.0
+pandas>=2.2.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+jupyterlab>=4.0.0
+notebook>=7.1.0
+ipykernel>=6.29.0
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-core>=0.2.0
+flask>=3.0.0
+tqdm>=4.66.0
